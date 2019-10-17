@@ -20,6 +20,16 @@ Importantly: planning, reporting, management, and discussion of project activiti
 ## Scientific & Technical Rationale
 
 
+Reading:
 
+[Margulies et al. PNAS 2016](https://www.ncbi.nlm.nih.gov/pubmed/27791099)
+
+[Huntenberg et al. 2018](https://www.ncbi.nlm.nih.gov/pubmed/29203085)
+
+Coding:
+
+[Repo for original Margulies paper](https://github.com/NeuroanatomyAndConnectivity/gradient_analysis)
+
+[BrainSpace library](https://github.com/MICA-MNI/BrainSpace)
 
 
