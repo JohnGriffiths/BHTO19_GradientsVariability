@@ -26,6 +26,9 @@ Reading:
 
 [Huntenberg et al. 2018](https://www.ncbi.nlm.nih.gov/pubmed/29203085)
 
+[de Wael et al. brainspace preprint](https://www.biorxiv.org/content/10.1101/761460v1)
+
+
 Coding:
 
 [Repo for original Margulies paper](https://github.com/NeuroanatomyAndConnectivity/gradient_analysis)
